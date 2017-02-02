@@ -1,0 +1,91 @@
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Asmodat.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.Auth.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Emgu.CV.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Ionic.Zip.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\AForge.Imaging.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\EntityFramework.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Interop.Shell32.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.Speech.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\NAudio.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.Core.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Emgu.Util.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\AForge.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\AForge.Math.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\AForge.Video.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\log4net.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Asmodat.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.Auth.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Emgu.CV.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Ionic.Zip.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Ionic.Zip.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\AForge.Imaging.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\EntityFramework.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\NAudio.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.Core.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.Core.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Emgu.Util.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\AForge.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\AForge.Math.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\AForge.Video.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\log4net.xml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\Asmodat Files Locker.csprojResolveAssemblyReference.cache
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\Interop.SHDocVw.dll
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\Asmodat Files Locker.csproj.ResolveComReference.cache
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\MainWindow.g.cs
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\App.g.cs
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\MainWindow.baml
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\Asmodat Files Locker.csproj.GenerateResource.Cache
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Asmodat Folder Locker.exe.config
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Asmodat Folder Locker.exe
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\bin\Debug\Asmodat Folder Locker.pdb
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\Asmodat Folder Locker_MarkupCompile.cache
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\Asmodat Folder Locker_MarkupCompile.lref
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\Asmodat Folder Locker.g.resources
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\Asmodat_Folder_Locker.Properties.Resources.resources
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\Asmodat Folder Locker.exe
+C:\Users\asmodat\documents\visual studio 2015\Projects\Asmodat File Lock\Asmodat File Lock\obj\Debug\Asmodat Folder Locker.pdb
